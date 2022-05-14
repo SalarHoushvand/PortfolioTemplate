@@ -2,7 +2,7 @@
 Feel free to use in any projects!
 <br>
 <br>
-<img src="DesktopSS">
+<img src="screenshot.png">
 <br>
 
 ## Lighthouse Score 
