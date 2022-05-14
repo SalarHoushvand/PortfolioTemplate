@@ -6,7 +6,7 @@ Feel free to use in any projects!
 <br>
 
 ## SEO Score 
-<img width="100" src="LighthouseScore.png" alt="lighthouse score">
+<img width="400" src="LighthouseScore.png" alt="lighthouse score">
 
 ## Demo
 <a href="https://salarhoushvand.github.io/PortfolioTemplate/">https://salarhoushvand.github.io/PortfolioTemplate/</a>
