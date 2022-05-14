@@ -1,5 +1,4 @@
-# PortfolioTemplate
-Free Personal Portfolio Template with TailwindCSS
+# Free Minimal Portfolio Template with TailwindCSS 
 Feel free to use in any projects!
 
 ## Demo
